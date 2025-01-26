@@ -1,16 +1,32 @@
-# ecommerce
+# 🛒 E-Commerce App
 
-A new Flutter project.
+## 📝 Description
+**E-Commerce App** is a mobile application that allows users to browse products, add them to their favorites, and place orders directly from the app. It’s designed for a seamless shopping experience with an easy-to-use interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- **Order Placement**: Browse and place orders directly from the app.
+- **Favorites**: Save your favorite items to a wishlist for future reference.
+- **User-Friendly Design**: Clean and intuitive UI for a smooth shopping experience.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+| Login Screen                                             | Favorites Screen                                             | Home Screen                                             | Details Screen                                             |
+|----------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
+| ![Login Screen](assets/images/Screenshot_1737855567.png) | ![Favorites Screen](assets/images/Screenshot_1737857287.png) | ![Home Screen](assets/images/Screenshot_1737857366.png) | ![Details Screen](assets/images/Screenshot_1737856399.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tools & Libraries
+- [Flutter SDK](https://flutter.dev)
+- [Cubit for State Management](https://pub.dev/packages/flutter_bloc)
+- [HTTP for API Integration](https://pub.dev/packages/http)
+
+---
+
+## 🔧 Setup & Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YourUsername/ecommerce-app.git
